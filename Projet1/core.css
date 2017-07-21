@@ -1,0 +1,49 @@
+article {
+    border-style:ridge;
+    border-width: medium;
+    background-color: deepskyblue;
+    width: 960px;
+    margin: auto;
+    font-family: 'Oswald', sans-serif;
+}
+li {
+    display: inline;
+    list-style-type: none;
+    padding: 5px;
+    margin-left: auto;
+}
+body{
+    background-color:#000000;
+}
+div.page-header{
+    padding-left: 40px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-color: red;
+}
+h2{
+    margin: auto;
+    text-align: center;
+}
+#password{
+    margin : auto;
+}
+#username{
+    margin : auto;
+}
+div.article{
+    border-style:ridge;
+    border-width: medium;
+    background-color: deepskyblue;
+    width: 960px;
+    margin: auto;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 20px;
+}
+div.create-contenu{
+    color: white;
+    border-style:ridge;
+    border-width:medium;
+    margin:auto;
+    padding-left: 250px;
+}
